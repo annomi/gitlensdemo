@@ -1,0 +1,1 @@
+scoop bucket add Bearman-wx https://github.com/hadesxiong/Bearman-Bucket
